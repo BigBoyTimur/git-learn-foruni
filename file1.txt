@@ -2,3 +2,4 @@ hello git1
 222
 09.03.2023
 date replace
+newLineForRemoteAdd
